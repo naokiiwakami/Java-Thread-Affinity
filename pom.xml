@@ -37,6 +37,7 @@
         <module>affinity-test</module>
     </modules>
 
+    <!-- Naoki: Diabled to avoid uploading attempts to the original repo from this temporary branch
     <scm>
         <url>scm:git:git@github.com:OpenHFT/Java-Thread-Affinity.git</url>
         <connection>scm:git:git@github.com:OpenHFT/Java-Thread-Affinity.git</connection>
@@ -44,5 +45,6 @@
         </developerConnection>
         <tag>master</tag>
     </scm>
+    -->
 
 </project>
